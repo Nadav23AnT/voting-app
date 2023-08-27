@@ -1,4 +1,4 @@
-# voting-app (Kubernetes implementation )
+# voting-app (Kubernetes implementation ) [KodeKloud DevOps course - project]
 This is based on the original example-voting-app repository from the docker-examples GitHub page
 and modified to work on the Kubernetes cluster.
 ## Illustration of the app
