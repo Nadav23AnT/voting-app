@@ -8,3 +8,7 @@ and modified to work on the Kubernetes cluster.
 1. Deploy PODs
 2. Enable connectivity between containers
 3. Add External Access
+### Kubernetes CLI
+```bash
+kubectl create -f voting-app-deploy
+```
